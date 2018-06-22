@@ -1,6 +1,6 @@
 # Borrowed some from https://github.com/emmenko/docker-nodejs-karma
 
-FROM node:6
+FROM node:8
 
 MAINTAINER Ray Di Ciaccio <ray@appcues.com>
 
